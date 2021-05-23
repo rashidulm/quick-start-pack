@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mine-width{
+    width: 1300px;
+    margin: auto;
+}
+.clear{
+    clear: both;
+    display: block;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+body,h1,h2,h3,h4,,h5,h6,a,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+/* header sicsotion */
+.menu{
+    text-align: center;
+    /* margin-left: 25px; */
+    margin-top: 5px;
+    border-top: 5px solid #2763d4;
+}
+.menu-left{
+    float: left;
+    width: 30%;
+}
+.menu-left a{
+
+}
+.menu-left h1{
+    color: #0000d2;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.nav-right{
+    float: right;
+    width: 70%;
+}
+.nav-right ul{
+    text-align: right;
+}
+.nav-right ul li{
+    display: inline-block;
+}
+.nav-right ul li a{
+    color: #666666;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 30px;
+    line-height: 100px;
+}
+.nav-right ul li a:hover{}
+
+/* banner section */
+.banner{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin-top: 100px;
+    background: url(../quick-start-pack/img/rs55555.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 400px 0;
+}
+.banner p{
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: -250px;
+    margin-left: -65px;
+}
+.banner h1{
+    font-size: 75px;
+    margin-left: -50px;
+}
+.banner span{
+    padding: 15px 25px;
+    background: #4272d7;
+    margin-left: -40px;
+}
+.banner-text{
+    margin-top: 55px;
+    margin-left: 55px;
+}
+.video-text{
+
+}
+.video-section{
+    float: left;
+    width: 30%;
+    margin-top: 0px;
+}
+.text{
+    float: right;
+    margin-left: 90px;
+    
+}
+.text-section p{
+    
+}
+article{
+    font-size: 22px;
+    float: right;
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.text1{
+    margin-top: 15px;
+}
+.text2{
+    margin-top: 15px;
+}
+.h1{
+    font-size: 25px;
+}
+.h2{
+    font-size: 25px;
+}
+.h3{
+    font-size: 25px;
+}
+.contact-section{
+    float: left;
+    width: 40%;
+    padding: 100px 411px;
+    background: #f5f5f5;
+    margin-top: 30px;
+}
+.contact-us{
+    float: right;
+    width: 50%;
+}
+form input{
+    display: block;
+    margin-bottom: 19px;
+    width: 300px;
+    padding: 1px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+
+}
+.footer{
+    text-align: center;
+    color: #fff;
+    padding: 20px 49px;
+    background: #171a21;
+    margin-left: 13px;
+}
